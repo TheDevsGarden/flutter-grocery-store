@@ -1,0 +1,33 @@
+[
+    {
+      "image": "https://m.media-amazon.com/images/I/51sv3xcsT9S._AC_UF1000,1000_QL80_.jpg",
+      "nom": "Lait de noix de coco Haiku",
+      "note": 29,
+      "description": "Ce produit a une note plus basse car il contient 18 grammes de gras saturé et contient de nombreux additifs alimentaires qui peuvent causer la dépendance."
+    },
+    {
+      "image": "",
+      "nom": "Pêches",
+      "note": 85,
+      "description": "Les fruits frais obtiennent une note élevée en raison de leur teneur élevée en vitamines, minéraux et fibres alimentaires."
+    },
+    {
+      "image": "",
+      "nom": "Poitrine de poulet bio",
+      "note": 78,
+      "description": "Les poitrines de poulet bio sont bien notés pour sa teneur en protéines maigres et sa faible teneur en gras."
+    },
+    {
+      "image": "https://petromc.ca/cdn/shop/products/laysclassique_grande.jpg",
+      "nom": "Chips lays régulier",
+      "note": 15,
+      "description": "Les chips de pomme de terre obtiennent une note basse en raison de leur teneur élevée en gras trans et en sel."
+    },
+    {
+      "image": "https://www.oikos.ca/sites/default/files/collaborator/2022-10/yogourt-grec-nature_0.png",
+      "nom": "Yogourt grec Oikos",
+      "note": 92,
+      "description": "Le yaourt grec est bien noté en raison de sa haute teneur en protéines et en probiotiques bénéfiques pour la santé intestinale."
+    }
+  ]
+  
